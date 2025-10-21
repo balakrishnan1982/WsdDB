@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic AJAX Page</title>
+    <link rel="stylesheet" href="AjaxStyle.css">
+</head>
+<body>
+
+    <header>
+        <h1>Our Dynamic User List 👥</h1>
+        <p>Click the button to load user data from a server.</p>
+    </header>
+
+    <main>
+        <button id="load-users-btn">Load Users</button>
+
+        <div id="loading-indicator" style="display: none;">
+            <p>Loading, please wait...</p>
+        </div>
+        
+        <div id="user-container">
+            </div>
+    </main>
+
+    <script src="AjaxScript.js" defer></script>
+</body>
+</html>
