@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "username": "PriyaS",
+    "email": "priya.sharma@example.in",
+    "address": {
+      "street": "12/A, MG Road",
+      "suite": "Flat 301, Sunrise Apts",
+      "city": "Bangalore",
+      "zipcode": "560001",
+      "geo": {
+        "lat": "12.9716",
+        "lng": "77.5946"
+      }
+    },
+    "phone": "+91 98888 77701",
+    "website": "sharmatech.in",
+    "company": {
+      "name": "Sharma InfoTech",
+      "catchPhrase": "End-to-end digital solutions",
+      "bs": "leverage scalable cloud infrastructure"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rohan Gupta",
+    "username": "RohanG",
+    "email": "rohan.gupta@example.co.in",
+    "address": {
+      "street": "B-Wing, 405, Lokhandwala Complex",
+      "suite": "Andheri West",
+      "city": "Mumbai",
+      "zipcode": "400053",
+      "geo": {
+        "lat": "19.1363",
+        "lng": "72.8275"
+      }
+    },
+    "phone": "+91 99888 77702",
+    "website": "guptaexports.com",
+    "company": {
+      "name": "Gupta & Sons Exports",
+      "catchPhrase": "Proactive supply-chain management",
+      "bs": "synergize global logistics"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Anjali Singh",
+    "username": "AnjaliS",
+    "email": "anjali.singh@example.in",
+    "address": {
+      "street": "22, Khan Market",
+      "suite": "Main Road",
+      "city": "New Delhi",
+      "zipcode": "110003",
+      "geo": {
+        "lat": "28.6001",
+        "lng": "77.2281"
+      }
+    },
+    "phone": "+91 97777 66603",
+    "website": "singhconsulting.in",
+    "company": {
+      "name": "Singh Consulting Group",
+      "catchPhrase": "Face to face bifurcated interface",
+      "bs": "e-enable strategic applications"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Vikram Patel",
+    "username": "VikramP",
+    "email": "vikram.patel@example.com",
+    "address": {
+      "street": "C.G. Road",
+      "suite": "Nr. Navrangpura",
+      "city": "Ahmedabad",
+      "zipcode": "380009",
+      "geo": {
+        "lat": "23.0225",
+        "lng": "72.5714"
+      }
+    },
+    "phone": "+91 96666 55504",
+    "website": "pateltextiles.co.in",
+    "company": {
+      "name": "Patel Textiles",
+      "catchPhrase": "Multi-tiered quality assurance",
+      "bs": "transition cutting-edge manufacturing"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sneha Reddy",
+    "username": "SnehaR",
+    "email": "sneha.reddy@example.in",
+    "address": {
+      "street": "Plot 78, Jubilee Hills",
+      "suite": "Road No. 36",
+      "city": "Hyderabad",
+      "zipcode": "500033",
+      "geo": {
+        "lat": "17.4065",
+        "lng": "78.4772"
+      }
+    },
+    "phone": "+91 95555 44405",
+    "website": "reddylabs.in",
+    "company": {
+      "name": "Reddy Pharma Labs",
+      "catchPhrase": "User-centric fault-tolerant solution",
+      "bs": "revolutionize end-to-end systems"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Arjun Desai",
+    "username": "ArjunD",
+    "email": "arjun.desai@example.com",
+    "address": {
+      "street": "FC Road",
+      "suite": "Deccan Gymkhana",
+      "city": "Pune",
+      "zipcode": "411004",
+      "geo": {
+        "lat": "18.5204",
+        "lng": "73.8567"
+      }
+    },
+    "phone": "+91 94444 33306",
+    "website": "desai-analytics.com",
+    "company": {
+      "name": "Desai Data Analytics",
+      "catchPhrase": "Synchronised bottom-line interface",
+      "bs": "e-enable innovative applications"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Meera Iyer",
+    "username": "MeeraI",
+    "email": "meera.iyer@example.in",
+    "address": {
+      "street": "112, T. Nagar",
+      "suite": "Usman Road",
+      "city": "Chennai",
+      "zipcode": "600017",
+      "geo": {
+        "lat": "13.0827",
+        "lng": "80.2707"
+      }
+    },
+    "phone": "+91 93333 22207",
+    "website": "iyerfoods.in",
+    "company": {
+      "name": "Iyer Catering Services",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Karan Malhotra",
+    "username": "KaranM",
+    "email": "karan.malhotra@example.com",
+    "address": {
+      "street": "Sector 18",
+      "suite": "Near Atta Market",
+      "city": "Noida",
+      "zipcode": "201301",
+      "geo": {
+        "lat": "28.5706",
+        "lng": "77.3261"
+      }
+    },
+    "phone": "+91 92222 11108",
+    "website": "malhotrarealestate.com",
+    "company": {
+      "name": "Malhotra Properties",
+      "catchPhrase": "Implemented secondary concept",
+      "bs": "e-enable extensible e-tailers"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Divya Nair",
+    "username": "DivyaN",
+    "email": "divya.nair@example.in",
+    "address": {
+      "street": "Park Street",
+      "suite": "Suite 550",
+      "city": "Kolkata",
+      "zipcode": "700016",
+      "geo": {
+        "lat": "22.5515",
+        "lng": "88.3578"
+      }
+    },
+    "phone": "+91 91111 00009",
+    "website": "naircreative.in",
+    "company": {
+      "name": "Nair Creative Designs",
+      "catchPhrase": "Switchable contextually-based project",
+      "bs": "aggregate real-time technologies"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Amit Kumar",
+    "username": "AmitK",
+    "email": "amit.kumar@example.co.in",
+    "address": {
+      "street": "Hawa Mahal Road",
+      "suite": "Pink City",
+      "city": "Jaipur",
+      "zipcode": "302002",
+      "geo": {
+        "lat": "26.9124",
+        "lng": "75.7873"
+      }
+    },
+    "phone": "+91 90000 12310",
+    "website": "kumarhandicrafts.com",
+    "company": {
+      "name": "Kumar Handicrafts",
+      "catchPhrase": "Centralized empowering task-force",
+      "bs": "target end-to-end models"
+    }
+  }
+]
